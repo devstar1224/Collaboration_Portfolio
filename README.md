@@ -19,7 +19,8 @@
 - Name :
 - Major:
 - Github :
-
+-
+-
 
 ## SungyongHong - Sungyong_Hong
 <img align="right" src="https://avatars3.githubusercontent.com/u/45868367?s=460&v=4" height="200" width="200" alt="SungyongHong">
@@ -27,6 +28,8 @@
 - Name :
 - Major:
 - Github :
+-
+-
 
 ## Devstar1224 - Sangik_Lee
 <img align="right" src="https://avatars1.githubusercontent.com/u/23352518?s=460&v=4" height="200" width="200" alt="devstar1224">
@@ -34,4 +37,6 @@
 - Name :
 - Major:
 - Github :
+-
+-
 
