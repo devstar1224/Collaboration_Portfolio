@@ -11,10 +11,10 @@
 [![issue badge](https://img.shields.io/badge/Github-Sangik--Lee-black?logo=github)](https://github.com/devstar1224)
 
 
-## Our Collaboration
+# Our Collaboration
 
 ## Comghana - Jieun_Jang
-<img align ="right" src="https://avatars1.githubusercontent.com/u/46733911?s=460&v=4" height="210" width="200" alt="comghana">
+<img align ="right" src="https://avatars1.githubusercontent.com/u/46733911?s=460&v=4" height="200" width="200" alt="comghana">
 
 ## SungyongHong - Sungyong_Hong
 <img align="right" src="https://avatars3.githubusercontent.com/u/45868367?s=460&v=4" height="200" width="200" alt="SungyongHong">
