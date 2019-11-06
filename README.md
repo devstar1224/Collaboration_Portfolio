@@ -4,7 +4,7 @@
 # Portfolio
 ![issue badge](https://img.shields.io/badge/Create%20At-2019%2F11%2F04-brightgreen)
 ![issue badge](https://img.shields.io/github/license/devstar1224/Collaboration_Portfolio)
-![issue badge](https://img.shields.io/github/realease/devstar/Collaboration_Portfolio.svg)
+![issue badge](https://img.shields.io/github/release/devstar/Collaboration_Portfolio.svg)
 <br>
 [![issue badge](https://img.shields.io/badge/Github-Jieun--Jang-black?logo=github)](https://github.com/comghana)
 [![issue badge](https://img.shields.io/badge/Github-Sungyong--Hong-black?logo=github)](https://github.com/SungyongHong)
