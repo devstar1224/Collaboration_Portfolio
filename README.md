@@ -1,7 +1,7 @@
 
 
 
-# Portfolio
+# Portfolio Info
 ![issue badge](https://img.shields.io/badge/Create%20At-2019%2F11%2F04-brightgreen)
 ![issue badge](https://img.shields.io/github/license/devstar1224/Collaboration_Portfolio)
 ![issue badge](https://img.shields.io/github/release/devstar1224/Collaboration_Portfolio.svg)
@@ -16,14 +16,7 @@
 ## Comghana - Jieun_Jang
 <img align ="right" src="https://avatars1.githubusercontent.com/u/46733911?s=460&v=4" height="200" width="200" alt="comghana">
 
-
-
-
-
-
-
-
-
+- Name :
 
 
 ## SungyongHong - Sungyong_Hong
