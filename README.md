@@ -38,7 +38,7 @@
 
 ### Start! Join! US!
 
-<img src="https://simpleicons.org/icons/myspace.svg" height="10" width="10"> Dong Yang Mirae University / Computer software major
+- <img src="https://simpleicons.org/icons/myspace.svg" height="20" width="20"> Dong Yang Mirae University / Computer software major
 - 
 -
 -
