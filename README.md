@@ -42,8 +42,7 @@
 - <img src="https://simpleicons.org/icons/safari.svg" height="20" width="20"> Republic Of Korea / Seoul
 - <img src="https://simpleicons.org/icons/minutemailer.svg" height="20" width="20"> dev_sang@naver.com
 - <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20" width="20">
-- <img src="https://simpleicons.org/icons/c.svg" height="20" width="20">
-<img src="https://simpleicons.org/icons/java.svg" height="20" width="20">
+- <img src="https://simpleicons.org/icons/c.svg" height="20" width="20"><img src="https://simpleicons.org/icons/java.svg" height="20" width="20">
 <img src="https://simpleicons.org/icons/javascript.svg" height="20" width="20">
 <img src="https://simpleicons.org/icons/linux.svg" height="20" width="20">
 <img src="https://simpleicons.org/icons/html5.svg" height="20" width="20">
