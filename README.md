@@ -43,3 +43,6 @@
 - <img src="https://simpleicons.org/icons/minutemailer.svg" height="20" width="20"> dev_sang@naver.com
 - <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20" width="20">
 - <img src="https://simpleicons.org/icons/c.svg" height="20" width="20"><img src="https://simpleicons.org/icons/java.svg" height="20" width="20"><img src="https://simpleicons.org/icons/javascript.svg" height="20" width="20"><img src="https://simpleicons.org/icons/linux.svg" height="20" width="20"><img src="https://simpleicons.org/icons/html5.svg" height="20" width="20"><img src="https://simpleicons.org/icons/node-dot-js.svg" height="20" width="20"><img src="https://simpleicons.org/icons/mongodb.svg" height="20" width="20"><img src="https://simpleicons.org/icons/python.svg" height="20" width="20"><img src="https://simpleicons.org/icons/oracle.svg" height="20" width="20"><img src="https://simpleicons.org/icons/mysql.svg" height="20" width="20"><img src="https://simpleicons.org/icons/shell.svg" height="20" width="20">
+
+## 사이트 개발 기획.
+- 디자인 및 레이아웃 기획 (https://ovenapp.io/project/9SXWvTuJFCzuTRKMaOmQt38fwuFzvZ0Z#bDngb)
