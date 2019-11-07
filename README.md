@@ -40,6 +40,6 @@
 
 - <img src="https://simpleicons.org/icons/myspace.svg" height="20" width="20"> Dong Yang Mirae University / Computer software major
 - <img src="https://simpleicons.org/icons/safari.svg" height="20" width="20"> Republic Of Korea / Seoul
--<img src="https://simpleicons.org/icons/minutemailer.svg" height="20" width="20"> dev_sang@naver.com
+- <img src="https://simpleicons.org/icons/minutemailer.svg" height="20" width="20"> dev_sang@naver.com
 -
 -
