@@ -11,7 +11,7 @@
 [![issue badge](https://img.shields.io/badge/Github-Sangik--Lee-black?logo=github)](https://github.com/devstar1224)
 
 
-# Our Collaboration
+# 공동 개발자
 
 ## Comghana - Jieun_Jang
 <img align ="right" src="https://avatars1.githubusercontent.com/u/46733911?s=460&v=4" height="200" width="200" alt="comghana">
@@ -44,5 +44,5 @@
 - <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20" width="20">
 - <img src="https://simpleicons.org/icons/c.svg" height="20" width="20"><img src="https://simpleicons.org/icons/java.svg" height="20" width="20"><img src="https://simpleicons.org/icons/javascript.svg" height="20" width="20"><img src="https://simpleicons.org/icons/linux.svg" height="20" width="20"><img src="https://simpleicons.org/icons/html5.svg" height="20" width="20"><img src="https://simpleicons.org/icons/node-dot-js.svg" height="20" width="20"><img src="https://simpleicons.org/icons/mongodb.svg" height="20" width="20"><img src="https://simpleicons.org/icons/python.svg" height="20" width="20"><img src="https://simpleicons.org/icons/oracle.svg" height="20" width="20"><img src="https://simpleicons.org/icons/mysql.svg" height="20" width="20"><img src="https://simpleicons.org/icons/shell.svg" height="20" width="20">
 
-## 사이트 개발 기획.
+## 사이트 개발 기획
 - 디자인 및 레이아웃 기획 (https://ovenapp.io/project/9SXWvTuJFCzuTRKMaOmQt38fwuFzvZ0Z#bDngb)
