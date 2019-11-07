@@ -41,5 +41,15 @@
 - <img src="https://simpleicons.org/icons/myspace.svg" height="20" width="20"> Dong Yang Mirae University / Computer software major
 - <img src="https://simpleicons.org/icons/safari.svg" height="20" width="20"> Republic Of Korea / Seoul
 - <img src="https://simpleicons.org/icons/minutemailer.svg" height="20" width="20"> dev_sang@naver.com
--
--
+- <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20" width="20">
+- <img src="https://simpleicons.org/icons/c.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/java.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/javascript.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/linux.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/html5.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/node-dot-js.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/mongodb.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/python.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/oracle.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/mysql.svg" height="20" width="20">
+<img src="https://simpleicons.org/icons/shell.svg" height="20" width="20">
